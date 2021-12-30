@@ -6,10 +6,8 @@ while t<4:
     y = int(input())
     x.append(y)
     t+=1
-
 for z in range (len(x)):
     if x[z] in dict:
         dict.pop(x[z])
 print(dict)
-
 

@@ -28,15 +28,4 @@ for z in range (len(asci2)):
         fact = fact*asci2[z]
         i+=1
     print('factorial of',asci[z],'is :',fact)
-
-
-    
-
-
-    
-
-    
-
-
-
     
